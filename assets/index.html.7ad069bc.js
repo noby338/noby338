@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,c,b as e}from"./app.759ff6f5.js";const n={},_=e("blockquote",null,[e("p",null,"本模块包括个人收藏的it技术、软件、兴趣爱好等可下载资源")],-1),s=[_];function l(r,a){return o(),c("div",null,s)}const f=t(n,[["render",l],["__file","index.html.vue"]]);export{f as default};
